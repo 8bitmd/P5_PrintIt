@@ -1,1 +1,2 @@
-# Print-It WebSite v.1
+# Print It! - Project #5
+For OpenClassrooms
